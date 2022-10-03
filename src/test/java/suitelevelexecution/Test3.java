@@ -1,0 +1,22 @@
+package suitelevelexecution;
+
+import org.junit.Test;
+
+public class Test3 {
+	@Test
+	public void tc1000() {
+		// TODO Auto-generated method stub
+		System.out.println("tc1000*****done");
+	}
+	@Test
+	public void tc2000() {
+		// TODO Auto-generated method stub
+		System.out.println("tc2000*****done");
+	}
+	@Test
+	public void tc3000() {
+		// TODO Auto-generated method stub
+		System.out.println("tc3000*****done");
+	}
+
+}

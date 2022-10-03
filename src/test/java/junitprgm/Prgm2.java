@@ -7,7 +7,7 @@ public class Prgm2 {
 	@Test
 	public void tc1() {
 		// TODO Auto-generated method stub
-		System.out.println("tc1*****done");
+		System.out.println("master");
 	}
 	@Test
 	public void tc2() {
@@ -24,6 +24,12 @@ public class Prgm2 {
 	public void tc3() {
 		// TODO Auto-generated method stub
 		System.out.println("tc 3***done");
+
+	}
+	@Test
+	public void tc4() {
+		// TODO Auto-generated method stub
+		System.out.println("tc 4***done");
 
 	}
 	}

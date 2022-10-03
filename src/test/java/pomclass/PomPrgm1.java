@@ -11,7 +11,7 @@ public class PomPrgm1 extends BaseMethd {
 
 		implicityWait(5);
 		PomPrgm pg = new PomPrgm();
-		sendKeys(pg.getTxtemail(), "arun");
+		sendKeys(pg.getTxtemail(), "satheesh");
 //		sendKeys(pg.getTxtemail(), excelRead(
 //				"C:\\\\Users\\\\satheesh\\\\eclipse-workspace\\\\junitprgm\\\\excel\\\\Book1.xlsx", "Sheet1", 1, 6));
 
